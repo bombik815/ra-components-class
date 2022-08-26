@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bombik815/ra-components-class.git/static/css/main.d035f874.css",
+    "main.js": "/bombik815/ra-components-class.git/static/js/main.5ef794aa.js",
+    "static/media/item-blue.jpg": "/bombik815/ra-components-class.git/static/media/item-blue.2103f69bf3b1c8b44f34.jpg",
+    "static/media/item-black.jpg": "/bombik815/ra-components-class.git/static/media/item-black.dd74251d47c485703b4d.jpg",
+    "index.html": "/bombik815/ra-components-class.git/index.html",
+    "main.d035f874.css.map": "/bombik815/ra-components-class.git/static/css/main.d035f874.css.map",
+    "main.5ef794aa.js.map": "/bombik815/ra-components-class.git/static/js/main.5ef794aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d035f874.css",
+    "static/js/main.5ef794aa.js"
+  ]
+}
