@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/kiww4aq0yuxah9ur/branch/main?svg=true)](https://ci.appveyor.com/project/bombik815/ra-components-class/branch/main)
 
 [Страница интернет-магазина](https://bombik815.github.io/ra-components-class/)
 
